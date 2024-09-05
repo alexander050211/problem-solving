@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"c:\\Github\\problem-solving\\atcoder\\abc-361\\d.cpp","tests":[{"id":1725532715447,"input":"99\n","output":"12"},{"id":1725532720370,"input":"1000000000000000000\n","output":"1001003332\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Github\\problem-solving\\atcoder\\abc-361\\d.cpp","group":"local","local":true}
