@@ -1,0 +1,1 @@
+{"name":"Local: e","url":"c:\\Github\\problem-solving\\atcoder\\abc-370\\e.cpp","tests":[{"id":1726044158087,"input":"10 5\n-5 -1 -7 6 -6 -2 -5 10 2 -10\n","output":"428"},{"id":1726044246250,"input":"3 3\n1 2 3\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Github\\problem-solving\\atcoder\\abc-370\\e.cpp","group":"local","local":true}
