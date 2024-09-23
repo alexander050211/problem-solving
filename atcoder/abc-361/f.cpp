@@ -35,7 +35,7 @@ int main()
 
     for (int i = 2; i <= 60; i++)
     {
-        ll temp = (ll)floor(pow(n, (double)1 / i)) - 1;
+        ll temp = (ll)floor(pow(n, (double)1.0 / i)) - 1;
         if (f(i) == -1)
             continue;
         else if (f(i) % 2)
