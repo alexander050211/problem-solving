@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"c:\\Github\\problem-solving\\atcoder\\arc-174\\d.cpp","tests":[{"id":1727863902943,"input":"2\n1\n174\n","output":"1\n22"},{"id":1727864304660,"input":"1\n101","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Github\\problem-solving\\atcoder\\arc-174\\d.cpp","group":"local","local":true}
