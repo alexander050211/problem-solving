@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"c:\\Github\\problem-solving\\atcoder\\arc-189\\a.cpp","tests":[{"id":1733901100114,"input":"6\n1 1 1 1 1 0\n","output":"3"},{"id":1733901133452,"input":"10\n1 1 1 1 1 0 1 1 1 0\n","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Github\\problem-solving\\atcoder\\arc-189\\a.cpp","group":"local","local":true}
