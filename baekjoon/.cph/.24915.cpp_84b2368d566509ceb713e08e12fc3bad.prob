@@ -1,0 +1,1 @@
+{"name":"Local: 24915","url":"c:\\Github\\problem-solving\\baekjoon\\24915.cpp","tests":[{"id":1757601808242,"input":"7 3\n5 -3 2 -9 5 3 -16\n2 1 6\n1 3 4\n2 3 5","output":"14\n-18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Github\\problem-solving\\baekjoon\\24915.cpp","group":"local","local":true}
