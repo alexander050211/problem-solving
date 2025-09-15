@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"c:\\Github\\problem-solving\\baekjoon\\japandomestic2024\\c.cpp","tests":[{"id":1757897650445,"input":"7\n0 0\n0 1\n1 0\n2 1\n2 -1\n-3 2\n-1 -3","output":"0\n1\n1\n3\n2\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Github\\problem-solving\\baekjoon\\japandomestic2024\\c.cpp","group":"local","local":true}
