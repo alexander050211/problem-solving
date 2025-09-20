@@ -14,10 +14,16 @@ typedef pair<ll,ll> pll;
 const ll mod=(ll)1e9+7;
 void solve()
 {
-  ll n;
-  cin>>n;
+  ll n,q;
+  cin>>n>>q;
   vector<ll> arr(n);
   for(int i=0; i<n; i++) cin>>arr[i];
+  vector<ll> cost(31,(ll)4e18);
+  for(int j=0; j<31; j++)
+  {
+    ll msk=(1LL<(j+1))-1;
+    
+  }
 }
 int main()
 {

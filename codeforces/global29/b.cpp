@@ -16,8 +16,11 @@ void solve()
 {
   ll n;
   cin>>n;
-  vector<ll> arr(n);
-  for(int i=0; i<n; i++) cin>>arr[i];
+  vector<ll> arr(2*n,0);
+  arr[0]=arr[n]=n;
+  for(int i=n-1; i>0; i--) arr[n-i]=arr[2*n-(n-i)]=i;
+  for(int i=0; i<2*n; i++) cout<<arr[i]<<' ';
+  cout<<endl;
 }
 int main()
 {

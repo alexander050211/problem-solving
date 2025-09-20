@@ -14,10 +14,12 @@ typedef pair<ll,ll> pll;
 const ll mod=(ll)1e9+7;
 void solve()
 {
-  ll n;
-  cin>>n;
-  vector<ll> arr(n);
-  for(int i=0; i<n; i++) cin>>arr[i];
+  ll x,y;
+  cin>>x>>y;
+  if(x<y) cout<<2<<endl;
+  else if(x>y+1 && y>1) cout<<3<<endl;
+  else cout<<-1<<endl;
+
 }
 int main()
 {
