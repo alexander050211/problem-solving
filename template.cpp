@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#define endl '\n'
 #pragma gcc optimize("O3")
 #pragma gcc optimize("OFast")
 #pragma gcc optimize("avx,avx2,fma")
@@ -12,6 +13,7 @@ typedef long long ll;
 typedef long double ld;
 typedef pair<ll,ll> pll;
 const ll mod=(ll)1e9+7;
+const ll INF=(ll)4e18;
 void solve()
 {
   ll n;
