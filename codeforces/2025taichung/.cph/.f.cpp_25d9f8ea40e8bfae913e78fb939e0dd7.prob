@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"c:\\github\\problem-solving\\codeforces\\2025taichung\\f.cpp","tests":[{"id":1763691664917,"input":"3\n4 2 6\n","output":""},{"id":1763691669487,"input":"6\n2 4 6 7 14 21\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\github\\problem-solving\\codeforces\\2025taichung\\f.cpp","group":"local","local":true}
